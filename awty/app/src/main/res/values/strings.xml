@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">awty</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="MessageLocation">Place Message Here</string>
+    <string name="PhoneLocation">Place Phone Number Here</string>
+    <string name="MinutesBetweenLocation">How many minutes between</string>
+    <string name="MessageTxt">Message:</string>
+    <string name="btnStartText">Start</string>
+
+</resources>
